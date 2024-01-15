@@ -4,4 +4,4 @@ I'm Xander, I use they/he pronouns and i'm a second year MPH student studying en
 
 This is my repository for UP221, a UCLA Urban Planning graduate course on geographic information systems and spatial data science. 
 
-I'm interested in pesticide exposures, food security, housing + environmental justice for unhoused + indigenous people. 
+I'm interested in pesticide exposures, food security & agroforestry, housing & environmental justice, heat/shade equity and cobenefit analysis of climate action policy. 
